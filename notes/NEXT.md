@@ -11,6 +11,8 @@
   are live on the Website.
 - Pull request #4, adding the two May 2026 QMCPy posts, has been merged into
   `main`.
+- The Brownian Bridge article and its two figures are in
+  `blogs/brownian-bridge/`, using the QMCPy 2.4 API and current demo links.
 - Community includes extensible directories for QMC software and university
   courses using QMCSoftware.
 - The QMCPy project page presents recent PyPI activity from a cached summary;
